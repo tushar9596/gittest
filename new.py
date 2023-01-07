@@ -1,3 +1,6 @@
 print("hey there, ")
 print("iam in developer2 branch")
 print("iam learning how to create new branches and merge with the main branch")
+print("iam in developer branch")
+print("iam trying to push the branch")
+print("iam trying to push data_scientist1 branch")
